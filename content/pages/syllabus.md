@@ -6,7 +6,7 @@ title: Syllabus
 uid: ce088e37-78d0-b7c9-c849-d4b38b029687
 ---
 
-{{< resource 4f199a18-bc4a-d7f0-f6e8-ffa79ece47e6 "A U-shaped valley." >}}
+{{< resource "4f199a18-bc4a-d7f0-f6e8-ffa79ece47e6" >}}
 
 The Ordesa Valley in the Spanish Pyrenees was carved by a glacier. (Photograph courtesy of Taylor Perron.)
 
